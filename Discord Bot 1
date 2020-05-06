@@ -1,0 +1,3 @@
+mkdir my-bot
+cd my-bot
+npm init -y # generates you a minimal package.json file
